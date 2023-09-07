@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812852054267",
+    "firebase_url": "https://denden2022-18310-default-rtdb.firebaseio.com",
+    "project_id": "denden2022-18310",
+    "storage_bucket": "denden2022-18310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812852054267:android:8f66ba8032af3cd2aa085e",
+        "android_client_info": {
+          "package_name": "dev.denden.gakutatsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812852054267-cchka1clfjnkof8vu7hbaioibcs37sij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_0Xd-5eAkNq3Wr2pJ9b53hEKuNhLZD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812852054267-cchka1clfjnkof8vu7hbaioibcs37sij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
